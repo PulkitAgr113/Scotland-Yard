@@ -1,0 +1,2 @@
+Welcome. You play Detective 3 in Game 5000:13. You start on square 0. Make a move, and wait for feedback
+Move 5; Detective 3; Play; Detectives on 36, 33, 0, 32, -1

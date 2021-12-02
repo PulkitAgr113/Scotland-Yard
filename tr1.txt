@@ -1,0 +1,15 @@
+Welcome. You play Detective 1 in Game 5000:13. You start on square 0. Make a move, and wait for feedback
+Move 2; Detective 1; Play; Detectives on 13, 24, -1, -1, -1
+Move 3; Detective 1; Play; Detectives on 13, 25, -1, -1, -1; Fugitive on 0
+Move 4; Detective 1; Play; Detectives on 12, 25, 8, -1, -1
+Move 5; Detective 1; Play; Detectives on 36, 33, 0, 32, -1
+Move 6; Detective 1; Play; Detectives on 4, 37, 0, -1, 0
+Move 7; Detective 1; Play; Detectives on 36, 61, 4, -1, 48
+Move 8; Detective 1; Play; Detectives on 12, 53, 4, -1, -1; Fugitive on 57
+Move 9; Detective 1; Play; Detectives on 52, 5, 4, -1, -1
+Move 10; Detective 1; Play; Detectives on 20, 45, 6, -1, -1
+Move 11; Detective 1; Play; Detectives on 22, 29, 6, -1, -1
+Move 12; Detective 1; Play; Detectives on 17, 61, 3, -1, -1
+Move 13; Detective 1; Play; Detectives on 19, 56, 27, -1, -1; Fugitive on 42
+Move 14; Detective 1; Play; Detectives on 19, 59, 51, -1, -1
+Move 15; Detective 1; Victory; Detectives on 43, 58, -1, -1, -1; Fugitive on -1
