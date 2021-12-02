@@ -1,5 +1,7 @@
 # Scotland Yard
 
+This project was done as part of Outlab 7 in CS251 by [Pulkit Agarwal](https://github.com/PulkitAgr113) and [Vaibhav Raj](https://github.com/scimaths) under the supervision of Prof. Amitabha Sanyal, Mihir Vahanwala and Rushabh Kanadiya.
+
 ## The Game
 -----------
 The city is an **8 x 8** grid, a Fugitive runs amok. In a single turn, the Fugitive can move like a chess Queen: horizontally, vertically, or diagonally. Upto k (say, 5, but that’s easily winning for a smart Fugitive. You can tweak this) Detectives attempt to catch the Fugitive. Detectives move like chess Rooks: horizontally, or vertically. In this game, Players don’t block each others’ paths. 
